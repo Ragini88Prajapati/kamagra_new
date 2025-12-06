@@ -1,0 +1,210 @@
+@media screen and (min-width: 768px) and (max-width: 992px) {
+    #search .form-control {
+        width: 258px;
+    }
+}
+
+@media screen and (min-width: 577px) and (max-width: 767px) {
+    .display-none-account {
+        display: none !important;
+    }
+    .heading-content h2 {
+        line-height: 26px;
+    }
+    #content>h1 {
+        margin-bottom: 0;
+        font-size: 21px !important;
+    }
+    .pdding-00 {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    .bt-featured-pro.bt-nprolarge-tabs.heightcard .bt-product-content .bt-item-extra {
+        height: auto;
+    }
+    .mega-menu>ul.nav {
+        flex-direction: column !important;
+        align-items: inherit !important;
+    }
+    .mega-menu>ul.nav>li>a {
+        padding-left: 21px !important;
+    }
+    .open-menu {
+        position: static !important;
+    }
+    /* .header-cartbtn{
+        display: none;
+    } */
+    .footer-row-mobile {
+        padding: 0 21px;
+    }
+    footer .bt-footer-bottom {
+        padding-left: 28px;
+        padding-right: 23px;
+    }
+    .bt-service .bt-service-content {
+        padding: 15px 47px 15px !important;
+    }
+    .desktop-logo a p {
+        font-size: 13px;
+        margin-bottom: 0;
+    }
+    #cart .cart-mobile-view {
+        padding: 0 5px !important;
+    }
+    #cart #cart-total {
+        padding-left: 11px;
+    }
+    .image-banner-height {
+        height: 20vh !important;
+        width: 100% !important;
+    }
+    #contents h1 {
+        font-size: 25px;
+        margin-top: 30px;
+    }
+}
+
+@media screen and (min-width: 380px) and (max-width: 576px) {
+    .display-none-account {
+        display: none !important;
+    }
+    .heading-content h2 {
+        line-height: 26px;
+    }
+    #content>h1 {
+        margin-bottom: 0;
+        font-size: 21px !important;
+    }
+    .pdding-00 {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    .bt-featured-pro.bt-nprolarge-tabs.heightcard .bt-product-content .bt-item-extra {
+        height: auto;
+    }
+    .mega-menu>ul.nav {
+        flex-direction: column !important;
+        align-items: inherit !important;
+    }
+    .mega-menu>ul.nav>li>a {
+        padding-left: 21px !important;
+    }
+    .open-menu {
+        position: static !important;
+    }
+    /* .header-cartbtn{
+        display: none;
+    } */
+    .footer-row-mobile {
+        padding: 0 21px;
+    }
+    footer .bt-footer-bottom {
+        padding-left: 28px;
+        padding-right: 23px;
+    }
+    .bt-service .bt-service-content {
+        padding: 15px 47px 15px !important;
+    }
+    .desktop-logo a p {
+        font-size: 13px;
+        margin-bottom: 0;
+    }
+    #cart .cart-mobile-view {
+        padding: 0 5px !important;
+    }
+    #cart #cart-total {
+        padding-left: 11px;
+    }
+    .image-banner-height {
+        height: 20vh !important;
+        width: 100% !important;
+    }
+    #contents h1 {
+        font-size: 25px;
+        margin-top: 30px;
+    }
+}
+
+@media screen and (min-width: 240px) and (max-width: 379px) {
+    .display-none-account {
+        display: none !important;
+    }
+    .heading-content h2 {
+        line-height: 26px;
+    }
+    #content>h1 {
+        margin-bottom: 0;
+        font-size: 14px !important;
+    }
+    .pdding-00 {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    .bt-featured-pro.bt-nprolarge-tabs.heightcard .bt-product-content .bt-item-extra {
+        height: auto;
+    }
+    .mega-menu>ul.nav {
+        flex-direction: column !important;
+        align-items: inherit !important;
+    }
+    .mega-menu>ul.nav>li>a {
+        padding-left: 21px !important;
+    }
+    .open-menu {
+        position: static !important;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    /* .header-cartbtn{
+        display: none;
+    } */
+    .footer-row-mobile {
+        padding: 0 5px;
+    }
+    footer .bt-footer-bottom {
+        padding-left: 10px;
+        padding-right: 10px;
+        font-size: 10px;
+    }
+    .bt-service .bt-service-content {
+        padding: 15px 15px 15px !important;
+    }
+    .desktop-logo a p {
+        font-size: 11px;
+        margin-bottom: 0;
+        margin-left: 5px;
+    }
+    #cart .cart-mobile-view {
+        padding: 0 5px !important;
+    }
+    #cart #cart-total {
+        padding-left: 11px;
+    }
+    .image-banner-height {
+        height: 20vh !important;
+        width: 100% !important;
+    }
+    #contents h1 {
+        font-size: 14px;
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+    .desktop-logo a {
+        font-size: 15px !important;
+        display: flex;
+        align-items: center;
+    }
+    .desktop-logo a span {
+        width: 35px !important;
+        height: 35px !important;
+        line-height: 25px !important;
+        font-size: 9px!important;
+    }
+    .text-end-carts {
+        display: flex;
+        align-items: center;
+        justify-content: end;
+    }
+}
